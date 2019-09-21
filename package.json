@@ -41,7 +41,7 @@
     "object-assign": "^4.0.1"
   },
   "optionalDependencies": {
-    "nodejieba": "^2.2.1"
+    "nodejieba": "^2.3.2"
   },
   "devDependencies": {
     "benchmark": "~1.0.0",
